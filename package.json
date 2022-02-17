@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "server": "nodemon index.js",
     "migrate": "knex migrate:latest",
     "rollback": "knex migrate:rollback",
@@ -16,7 +17,7 @@
     "eslint": "^8.0.1",
     "jest": "^27.3.1",
     "knex-cleaner": "^1.3.1",
-    "nodemon": "^2.0.14",
+    "nodemon": "^2.0.15",
     "supertest": "^6.1.6"
   },
   "dependencies": {

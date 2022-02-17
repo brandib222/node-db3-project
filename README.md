@@ -78,7 +78,7 @@ Use a graphical tool like SQLite Studio to open `./data/northwind.db3` and execu
 
 In [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/tryit.asp?filename=trysql_select_top):
 
-- Find the number of shipments by each shipper.
+- Find the number of shipments by each shipper
 - Find the top 5 best performing employees measured in number of orders.
 - Find the top 5 best performing employees measured in revenue.
 - Find the category that brings in the least revenue.
